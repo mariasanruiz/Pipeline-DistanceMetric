@@ -24,7 +24,7 @@ Run the following command:
 ```console
 python pipeline.py --ref_image <path2refImage> --ref_audio <path2refAudio> --ob_image <path2obImage> --gen_audio <path2genAudio>
 ```
-Where:
+Where
 
 
 - `<path2refImage>` is the path to your reference image. There can only be one reference image.
