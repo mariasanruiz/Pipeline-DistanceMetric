@@ -32,7 +32,8 @@ Where:
 - `<path2obImage>` is the path to your objective images folder. These are the images that you used to generate audio. There can be N images files in this folder path.
 - `<path2genAudio>` is the path to your generated audios folder, the ones that you want to measure. These audios are the ones you have generated automatically and you want to try the metric on. There can be N audios files in in this folder path.
 
+> **Note**: IMPORTANT: The number of files in folders `<path2obImage>` and `<path2genAudio>` must match.
 
 > __Note__ Your Reference Image is an image of your choice to which you will associate a sound.
 > __Note__ Your Reference Sound is the sound you think matches the reference image you have chosen.
-> **Note**: IMPORTANT: The number of files in folders `<path2obImage>` and `<path2genAudio>` must match.
+
