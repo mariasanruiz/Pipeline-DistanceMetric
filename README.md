@@ -35,5 +35,6 @@ Where:
 > **Note**: IMPORTANT: The number of files in folders `<path2obImage>` and `<path2genAudio>` must match.
 
 > __Note__ Your Reference Image is an image of your choice to which you will associate a sound.
+
 > __Note__ Your Reference Sound is the sound you think matches the reference image you have chosen.
 
