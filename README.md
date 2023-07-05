@@ -16,7 +16,7 @@ Once you have the files from this repo in the main directory of your ImageBind p
 
 ```console
      python pipeline.py --ref_image <path2refImage> --ref_audio <path2refAudio> --ob_image <path2obImage> --gen_audio <path2genAudio>
-     ``` 
+ ``` 
 Where:
 
 <path2refImage> is the path to your reference image. There can only be one reference image.
